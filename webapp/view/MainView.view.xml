@@ -1,0 +1,9 @@
+<mvc:View controllerName="omontes.invoices.controller.MainView"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <Text id="_IDGenText1" text="Hola Mundo"></Text>
+        </content>
+    </Page>
+</mvc:View>
